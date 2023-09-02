@@ -1,0 +1,77 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+.counterContainer {
+  position: absolute;
+  background: gray;
+  width: 10%;
+  height: 20%;
+  top: 20px;
+  left: 40px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: larger;
+  text-align: center;
+}
+#counter {
+  position: relative;
+  top: 20px;
+  font-size: xx-large;
+}
+
+.container {
+  
+  left: 290px;
+  position: fixed;
+  width: 700px;
+  height: 500px;
+  background: lightblue;
+  margin: auto;
+  margin-top: 2vh;
+
+}
+
+#snake {
+  position: fixed;
+  background: black;
+  height: 10px;
+  width: 10px;
+}
+
+#apple {
+  position: fixed;
+  background: red;
+  height: 10px;
+  width: 10px;
+  border-radius: 100%;
+}
+
+/* #spider {
+    position: absolute;
+    background: rgb(250, 117, 76);
+    height: 20px;
+    width: 20px;
+    border-radius: 100%;
+} */
+
+.scorebord {
+  background: gray;
+  width: 10%;
+  height: 20%;
+  position: absolute;
+  top: 20px;
+  right: 40px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: larger;
+  text-align: center;
+}
+
+#score {
+  position: relative;
+  top: 20px;
+  font-size: xx-large;
+} 
+
