@@ -1,1 +1,1 @@
-# whimsy
+# bhargav-kanani.github.io/whimsy/
